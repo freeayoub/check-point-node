@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.8.0"
+  }
+}
